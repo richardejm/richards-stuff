@@ -1,0 +1,6 @@
+200
+
+{
+	"my-example-response": 18920,
+	"thing": "{THING}"
+}
